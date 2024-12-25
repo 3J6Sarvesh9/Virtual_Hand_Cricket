@@ -7,9 +7,11 @@ This game is only console game and does not contains any of the Graphic User Int
 
 ***Steps For Playing The Game***
 ***Step 1*** 
-1. Click on the 'VirtualHandCricket.zip' file and download it
+Click on the 'VirtualHandCricket.zip' file and download it
+
 ***Step 2***
 Extract the file in any directory
+
 ***Step 3***
 Run the file 'VirtualHandCricket.bat'
 
