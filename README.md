@@ -6,6 +6,7 @@ This game is only console game and does not contains any of the Graphic User Int
 2. Only Inputs from 1 to 6 is considered, mainly after the Toss
 
 ***Steps For Playing The Game***
+
 ***Step 1*** 
 Click on the 'VirtualHandCricket.zip' file and download it
 
